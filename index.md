@@ -1,3 +1,5 @@
+![Image of Me](https://pp.userapi.com/c622720/v622720349/4ecc1/8lyuMepX6rc.jpg)
+
 ### About me
 I have about year of experience as Unity developer, have worked in small startups.
 
@@ -18,5 +20,5 @@ Student at Belarussian State University, Faculty of Social and Cultural Communic
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/zagamant/) <br>
-[Github](https://github.com/zagamant)
+[Github](https://github.com/zagamant) <br>
 [Codewars](https://www.codewars.com/users/zagamant) <br>
