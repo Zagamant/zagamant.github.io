@@ -18,6 +18,8 @@ Student at Belarussian State University, Faculty of Social and Cultural Communic
 - Photoshop
 - Illustrator
 
+### Interests
+I fond of games, discussions and guitar playing.
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/zagamant/) <br>
