@@ -1,4 +1,4 @@
-<img src="https://pp.userapi.com/c622720/v622720349/4ecc1/8lyuMepX6rc.jpg" alt="Image of Me" width="60%" height="60%" style ="float:left">
+<img src="https://pp.userapi.com/c622720/v622720349/4ecc1/8lyuMepX6rc.jpg" alt="Image of Me" width="60%" height="60%" style ="float:right">
 
 ### About me
 I have about year of experience as Unity developer, have worked in small startups.
