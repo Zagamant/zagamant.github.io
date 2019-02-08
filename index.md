@@ -5,13 +5,14 @@ I have about year of experience as Unity developer, have worked in small startup
 
 
 ### Summary
-Student at Belarussian State University, Faculty of Social and Cultural Communications, Computer Science. Got good skills in basics of C++, C#(Unity), Java SE and MySQL. Also can use Photoshop and Illustrator. I can be characterized by open-minded, easy-going and quick study person. 
+Student at Belarussian State University, Faculty of Social and Cultural Communications, Computer Science. Got good skills in basics of C++, C#(Unity), Java SE, HTML/CSS and MySQL. Also can use Photoshop and Illustrator. I can be characterized by open-minded, easy-going and quick study person. 
 
 ### Skills
 - С/С++
 - С#
 - Unity
 - Java SE
+- HTML/CSS
 - MySQL
 - Git
 - Photoshop
