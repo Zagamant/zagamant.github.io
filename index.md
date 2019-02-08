@@ -20,6 +20,7 @@ Student at Belarussian State University, Faculty of Social and Cultural Communic
 
 ### Interests
 I fond of games, discussions and guitar playing.
+Also interested in German learning(just earned A1 Goethe Institute certificate).
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/zagamant/) <br>
