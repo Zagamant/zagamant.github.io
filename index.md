@@ -29,7 +29,7 @@ Also interested in German learning(just earned A1 Goethe Institute certificate).
 
 ### Works
 [TicTacToeGame](https://github.com/Zagamant/TicTacToeGame) - [Certificate](https://www.udemy.com/certificate/UC-Z77MM3LM/) <br>
-Padawans Task: <br>
+Padawans Tasks: <br>
 [FancyCalc](https://github.com/Zagamant/FancyCalc) <br>
 [PadawansTask1](https://github.com/Zagamant/padawanstask1) <br>
 [PadawansTask2](https://github.com/Zagamant/padawanstask2) <br>
