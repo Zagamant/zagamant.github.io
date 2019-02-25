@@ -30,18 +30,18 @@ Also interested in German learning(just earned A1 Goethe Institute certificate).
 ### Works
 https://github.com/Zagamant/TicTacToeGame - https://www.udemy.com/certificate/UC-Z77MM3LM/ <br>
 Padawans Task: <br>
-[FancyCalc] https://github.com/Zagamant/FancyCalc <br>
-[PadawansTask1] https://github.com/Zagamant/padawanstask1 <br>
-[PadawansTask2] https://github.com/Zagamant/padawanstask2 <br>
-[PadawansTask3] https://github.com/Zagamant/padawanstask3 <br>
-[PadawansTask4] https://github.com/Zagamant/padawanstask4 <br>
-[PadawansTask5] https://github.com/Zagamant/padawanstask5 <br>
-[PadawansTask6] https://github.com/Zagamant/padawanstask6 <br>
-[PadawansTask7] https://github.com/Zagamant/padawanstask7 <br>
-[PadawansTask8] https://github.com/Zagamant/padawanstask8 <br>
-[PadawansTask9] https://github.com/Zagamant/padawanstask9 <br>
-[PadawansTask10] https://github.com/Zagamant/padawanstask10 <br>
-[PadawansTask11] https://github.com/Zagamant/padawanstask11 <br>
-[PadawansTask12] https://github.com/Zagamant/padawanstask12 <br>
-[PadawansTask13] https://github.com/Zagamant/padawanstask13 <br>
-[PadawansTask15] https://github.com/Zagamant/padawanstask15 <br>
+[FancyCalc] (https://github.com/Zagamant/FancyCalc) <br>
+[PadawansTask1] (https://github.com/Zagamant/padawanstask1) <br>
+[PadawansTask2] (https://github.com/Zagamant/padawanstask2) <br>
+[PadawansTask3] (https://github.com/Zagamant/padawanstask3) <br>
+[PadawansTask4] (https://github.com/Zagamant/padawanstask4) <br>
+[PadawansTask5] (https://github.com/Zagamant/padawanstask5) <br>
+[PadawansTask6] (https://github.com/Zagamant/padawanstask6) <br>
+[PadawansTask7] (https://github.com/Zagamant/padawanstask7) <br>
+[PadawansTask8] (https://github.com/Zagamant/padawanstask8) <br>
+[PadawansTask9] (https://github.com/Zagamant/padawanstask9) <br>
+[PadawansTask10] (https://github.com/Zagamant/padawanstask10) <br>
+[PadawansTask11] (https://github.com/Zagamant/padawanstask11) <br>
+[PadawansTask12] (https://github.com/Zagamant/padawanstask12) <br>
+[PadawansTask13] (https://github.com/Zagamant/padawanstask13) <br>
+[PadawansTask15] (https://github.com/Zagamant/padawanstask15) <br>
