@@ -7,6 +7,7 @@ I have about year of experience as Unity developer, year worked in small startup
 ### Summary
 Student at Belarussian State University, Faculty of Social and Cultural Communications, Computer Science. Got good skills in basics of C++, C#(Unity), HTML/CSS and MySQL. Can be characterized as open-minded, easy-going and quick study person. 
 
+
 ### Skills
 - ASP.NET Core
 - WebAPI
@@ -22,7 +23,7 @@ Student at Belarussian State University, Faculty of Social and Cultural Communic
 
 ### Interests
 I fond of games, discussions and guitar playing.
-Also interested in German learning(just earned A1 Goethe Institute certificate).
+
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/seltenes/) <br>
