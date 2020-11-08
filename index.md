@@ -8,6 +8,7 @@ I have about year of experience as Unity developer, year worked in small startup
 Student at Belarussian State University, Faculty of Social and Cultural Communications, Computer Science. Got good skills in basics of C++, C#(Unity), HTML/CSS and MySQL. Can be characterized as open-minded, easy-going and quick study person. 
 
 
+
 ### Skills
 - ASP.NET Core
 - WebAPI
